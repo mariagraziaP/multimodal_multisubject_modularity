@@ -2,7 +2,7 @@
 
 This repository contains the code to reproduce the multi-modal multi-subject modularity optimization introduced in the paper "Multi-modal and multi-subject modular organization of human brain networks" 
 
-link to the preprint: https://www.biorxiv.org/content/10.1101/2022.01.26.477897v1.abstract
+link to the paper: https://www.sciencedirect.com/science/article/pii/S1053811922007947
 
 
 
